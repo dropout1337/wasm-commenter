@@ -363,7 +363,7 @@ var Operations = []Operation{
 		Comment: "Divide one 64-bit integer by another (unsigned)",
 	},
 	{
-		Name:    "  i64_REM_s",
+		Name:    "i64_REM_s",
 		Comment: "Calculate remainder of dividing one 64-bit integer by another (signed)",
 	},
 	{
